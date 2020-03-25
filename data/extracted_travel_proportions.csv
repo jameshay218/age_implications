@@ -1,0 +1,803 @@
+﻿date,province,percentage
+1/26/20,Hubei Province,0.76
+1/26/20,Henan Province,0.04
+1/26/20,Guangdong Province,0.04
+1/26/20,Hunan Province,0.02
+1/26/20,Anhui Province,0.01
+1/26/20,Jiangxi Province,0.01
+1/26/20,Zhejiang Province,0.01
+1/26/20,Jiangsu Province,0.01
+1/26/20,Sichuan Province,0.01
+1/26/20,Chongqing,0.01
+1/26/20,Shandong Province,0.01
+1/26/20,Fujian Province,0.01
+1/26/20,Yunnan Province,0.01
+1/26/20,Shanghai,0.01
+1/26/20,Hainan,0.01
+1/26/20,Shaanxi Province,0.00
+1/26/20,Beijing,0.00
+1/26/20,Hebei Province,0.00
+1/26/20,Guangxi Zhuang Autonomous Region,0.00
+1/26/20,Shanxi Province,0.00
+1/26/20,Guizhou Province,0.00
+1/26/20,Liaoning Province,0.00
+1/26/20,Gansu province,0.00
+1/26/20,Inner Mongolia Autonomous Region,0.00
+1/26/20,Jilin Province,0.00
+1/26/20,Heilongjiang Province,0.00
+1/26/20,Xinjiang Uygur Autonomous Region,0.00
+1/26/20,Qinghai Province,0.00
+1/26/20,Tianjin,0.00
+1/26/20,Ningxia Hui Autonomous Region,0.00
+1/25/20,Hubei Province,0.75
+1/25/20,Henan Province,0.04
+1/25/20,Guangdong Province,0.03
+1/25/20,Hunan Province,0.02
+1/25/20,Anhui Province,0.02
+1/25/20,Jiangxi Province,0.01
+1/25/20,Jiangsu Province,0.01
+1/25/20,Sichuan Province,0.01
+1/25/20,Zhejiang Province,0.01
+1/25/20,Chongqing,0.01
+1/25/20,Shandong Province,0.01
+1/25/20,Guangxi Zhuang Autonomous Region,0.01
+1/25/20,Hainan,0.01
+1/25/20,Fujian Province,0.01
+1/25/20,Shaanxi Province,0.01
+1/25/20,Yunnan Province,0.01
+1/25/20,Hebei Province,0.01
+1/25/20,Shanghai,0.00
+1/25/20,Beijing,0.00
+1/25/20,Guizhou Province,0.00
+1/25/20,Shanxi Province,0.00
+1/25/20,Gansu province,0.00
+1/25/20,Heilongjiang Province,0.00
+1/25/20,Liaoning Province,0.00
+1/25/20,Inner Mongolia Autonomous Region,0.00
+1/25/20,Jilin Province,0.00
+1/25/20,Xinjiang Uygur Autonomous Region,0.00
+1/25/20,Tianjin,0.00
+1/25/20,Ningxia Hui Autonomous Region,0.00
+1/25/20,Qinghai Province,0.00
+1/25/20,Tibet Autonomous Region,0.00
+1/24/20,Hubei Province,0.72
+1/24/20,Henan Province,0.05
+1/24/20,Hunan Province,0.03
+1/24/20,Guangdong Province,0.03
+1/24/20,Anhui Province,0.02
+1/24/20,Jiangxi Province,0.02
+1/24/20,Chongqing,0.01
+1/24/20,Jiangsu Province,0.01
+1/24/20,Sichuan Province,0.01
+1/24/20,Shandong Province,0.01
+1/24/20,Zhejiang Province,0.01
+1/24/20,Fujian Province,0.01
+1/24/20,Shaanxi Province,0.01
+1/24/20,Guangxi Zhuang Autonomous Region,0.01
+1/24/20,Hebei Province,0.01
+1/24/20,Shanxi Province,0.01
+1/24/20,Shanghai,0.01
+1/24/20,Hainan,0.01
+1/24/20,Yunnan Province,0.00
+1/24/20,Beijing,0.00
+1/24/20,Guizhou Province,0.00
+1/24/20,Gansu province,0.00
+1/24/20,Heilongjiang Province,0.00
+1/24/20,Liaoning Province,0.00
+1/24/20,Jilin Province,0.00
+1/24/20,Inner Mongolia Autonomous Region,0.00
+1/24/20,Xinjiang Uygur Autonomous Region,0.00
+1/24/20,Tianjin,0.00
+1/24/20,Ningxia Hui Autonomous Region,0.00
+1/24/20,Qinghai Province,0.00
+1/23/20,Hubei Province,0.77
+1/23/20,Henan Province,0.05
+1/23/20,Hunan Province,0.03
+1/23/20,Anhui Province,0.02
+1/23/20,Jiangxi Province,0.02
+1/23/20,Guangdong Province,0.02
+1/23/20,Chongqing,0.01
+1/23/20,Jiangsu Province,0.01
+1/23/20,Sichuan Province,0.01
+1/23/20,Fujian Province,0.01
+1/23/20,Shandong Province,0.01
+1/23/20,Zhejiang Province,0.01
+1/23/20,Hebei Province,0.01
+1/23/20,Shaanxi Province,0.01
+1/23/20,Guangxi Zhuang Autonomous Region,0.01
+1/23/20,Shanxi Province,0.00
+1/23/20,Beijing,0.00
+1/23/20,Yunnan Province,0.00
+1/23/20,Hainan,0.00
+1/23/20,Shanghai,0.00
+1/23/20,Guizhou Province,0.00
+1/23/20,Gansu province,0.00
+1/23/20,Heilongjiang Province,0.00
+1/23/20,Liaoning Province,0.00
+1/23/20,Jilin Province,0.00
+1/23/20,Inner Mongolia Autonomous Region,0.00
+1/23/20,Xinjiang Uygur Autonomous Region,0.00
+1/23/20,Tianjin,0.00
+1/23/20,Qinghai Province,0.00
+1/23/20,Ningxia Hui Autonomous Region,0.00
+1/23/20,Tibet Autonomous Region,0.00
+1/22/20,Hubei Province,0.75
+1/22/20,Henan Province,0.06
+1/22/20,Hunan Province,0.03
+1/22/20,Anhui Province,0.02
+1/22/20,Jiangxi Province,0.02
+1/22/20,Guangdong Province,0.02
+1/22/20,Chongqing,0.01
+1/22/20,Jiangsu Province,0.01
+1/22/20,Sichuan Province,0.01
+1/22/20,Shandong Province,0.01
+1/22/20,Fujian Province,0.01
+1/22/20,Zhejiang Province,0.01
+1/22/20,Hebei Province,0.01
+1/22/20,Shaanxi Province,0.01
+1/22/20,Guangxi Zhuang Autonomous Region,0.01
+1/22/20,Shanxi Province,0.00
+1/22/20,Yunnan Province,0.00
+1/22/20,Beijing,0.00
+1/22/20,Hainan,0.00
+1/22/20,Guizhou Province,0.00
+1/22/20,Shanghai,0.00
+1/22/20,Gansu province,0.00
+1/22/20,Liaoning Province,0.00
+1/22/20,Heilongjiang Province,0.00
+1/22/20,Inner Mongolia Autonomous Region,0.00
+1/22/20,Jilin Province,0.00
+1/22/20,Xinjiang Uygur Autonomous Region,0.00
+1/22/20,Tianjin,0.00
+1/22/20,Ningxia Hui Autonomous Region,0.00
+1/22/20,Qinghai Province,0.00
+1/21/20,Hubei Province,0.72
+1/21/20,Henan Province,0.06
+1/21/20,Hunan Province,0.03
+1/21/20,Anhui Province,0.02
+1/21/20,Jiangxi Province,0.02
+1/21/20,Guangdong Province,0.02
+1/21/20,Chongqing,0.01
+1/21/20,Jiangsu Province,0.01
+1/21/20,Sichuan Province,0.01
+1/21/20,Shandong Province,0.01
+1/21/20,Zhejiang Province,0.01
+1/21/20,Fujian Province,0.01
+1/21/20,Hebei Province,0.01
+1/21/20,Shaanxi Province,0.01
+1/21/20,Guangxi Zhuang Autonomous Region,0.01
+1/21/20,Shanxi Province,0.01
+1/21/20,Beijing,0.00
+1/21/20,Yunnan Province,0.00
+1/21/20,Guizhou Province,0.00
+1/21/20,Hainan,0.00
+1/21/20,Shanghai,0.00
+1/21/20,Liaoning Province,0.00
+1/21/20,Gansu province,0.00
+1/21/20,Heilongjiang Province,0.00
+1/21/20,Jilin Province,0.00
+1/21/20,Inner Mongolia Autonomous Region,0.00
+1/21/20,Xinjiang Uygur Autonomous Region,0.00
+1/21/20,Tianjin,0.00
+1/21/20,Ningxia Hui Autonomous Region,0.00
+1/21/20,Qinghai Province,0.00
+1/20/20,Hubei Province,0.71
+1/20/20,Henan Province,0.06
+1/20/20,Hunan Province,0.03
+1/20/20,Anhui Province,0.02
+1/20/20,Jiangxi Province,0.02
+1/20/20,Guangdong Province,0.02
+1/20/20,Chongqing,0.01
+1/20/20,Jiangsu Province,0.01
+1/20/20,Sichuan Province,0.01
+1/20/20,Shandong Province,0.01
+1/20/20,Zhejiang Province,0.01
+1/20/20,Hebei Province,0.01
+1/20/20,Fujian Province,0.01
+1/20/20,Shaanxi Province,0.01
+1/20/20,Guangxi Zhuang Autonomous Region,0.01
+1/20/20,Beijing,0.01
+1/20/20,Shanxi Province,0.01
+1/20/20,Yunnan Province,0.00
+1/20/20,Shanghai,0.00
+1/20/20,Guizhou Province,0.00
+1/20/20,Hainan,0.00
+1/20/20,Liaoning Province,0.00
+1/20/20,Gansu province,0.00
+1/20/20,Heilongjiang Province,0.00
+1/20/20,Jilin Province,0.00
+1/20/20,Inner Mongolia Autonomous Region,0.00
+1/20/20,Xinjiang Uygur Autonomous Region,0.00
+1/20/20,Tianjin,0.00
+1/20/20,Ningxia Hui Autonomous Region,0.00
+1/20/20,Qinghai Province,0.00
+1/20/20,Tibet Autonomous Region,0.00
+1/19/20,Hubei Province,0.70
+1/19/20,Henan Province,0.06
+1/19/20,Hunan Province,0.03
+1/19/20,Anhui Province,0.02
+1/19/20,Jiangxi Province,0.02
+1/19/20,Guangdong Province,0.02
+1/19/20,Jiangsu Province,0.01
+1/19/20,Sichuan Province,0.01
+1/19/20,Chongqing,0.01
+1/19/20,Shandong Province,0.01
+1/19/20,Zhejiang Province,0.01
+1/19/20,Fujian Province,0.01
+1/19/20,Hebei Province,0.01
+1/19/20,Shaanxi Province,0.01
+1/19/20,Guangxi Zhuang Autonomous Region,0.01
+1/19/20,Beijing,0.01
+1/19/20,Shanxi Province,0.01
+1/19/20,Shanghai,0.01
+1/19/20,Yunnan Province,0.00
+1/19/20,Guizhou Province,0.00
+1/19/20,Hainan,0.00
+1/19/20,Liaoning Province,0.00
+1/19/20,Heilongjiang Province,0.00
+1/19/20,Gansu province,0.00
+1/19/20,Jilin Province,0.00
+1/19/20,Inner Mongolia Autonomous Region,0.00
+1/19/20,Tianjin,0.00
+1/19/20,Xinjiang Uygur Autonomous Region,0.00
+1/19/20,Ningxia Hui Autonomous Region,0.00
+1/19/20,Qinghai Province,0.00
+1/19/20,Tibet Autonomous Region,0.00
+1/18/20,Hubei Province,0.70
+1/18/20,Henan Province,0.06
+1/18/20,Hunan Province,0.04
+1/18/20,Anhui Province,0.02
+1/18/20,Jiangxi Province,0.02
+1/18/20,Guangdong Province,0.02
+1/18/20,Jiangsu Province,0.02
+1/18/20,Chongqing,0.01
+1/18/20,Sichuan Province,0.01
+1/18/20,Zhejiang Province,0.01
+1/18/20,Shandong Province,0.01
+1/18/20,Hebei Province,0.01
+1/18/20,Fujian Province,0.01
+1/18/20,Beijing,0.01
+1/18/20,Shaanxi Province,0.01
+1/18/20,Shanghai,0.01
+1/18/20,Guangxi Zhuang Autonomous Region,0.01
+1/18/20,Shanxi Province,0.01
+1/18/20,Guizhou Province,0.00
+1/18/20,Yunnan Province,0.00
+1/18/20,Liaoning Province,0.00
+1/18/20,Hainan,0.00
+1/18/20,Heilongjiang Province,0.00
+1/18/20,Gansu province,0.00
+1/18/20,Xinjiang Uygur Autonomous Region,0.00
+1/18/20,Jilin Province,0.00
+1/18/20,Tianjin,0.00
+1/18/20,Inner Mongolia Autonomous Region,0.00
+1/18/20,Ningxia Hui Autonomous Region,0.00
+1/18/20,Qinghai Province,0.00
+1/18/20,Tibet Autonomous Region,0.00
+1/17/20,Hubei Province,0.67
+1/17/20,Henan Province,0.06
+1/17/20,Hunan Province,0.04
+1/17/20,Anhui Province,0.03
+1/17/20,Jiangxi Province,0.02
+1/17/20,Guangdong Province,0.02
+1/17/20,Jiangsu Province,0.02
+1/17/20,Chongqing,0.01
+1/17/20,Sichuan Province,0.01
+1/17/20,Shandong Province,0.01
+1/17/20,Zhejiang Province,0.01
+1/17/20,Hebei Province,0.01
+1/17/20,Beijing,0.01
+1/17/20,Fujian Province,0.01
+1/17/20,Shanghai,0.01
+1/17/20,Guangxi Zhuang Autonomous Region,0.01
+1/17/20,Shaanxi Province,0.01
+1/17/20,Shanxi Province,0.01
+1/17/20,Yunnan Province,0.01
+1/17/20,Guizhou Province,0.01
+1/17/20,Liaoning Province,0.00
+1/17/20,Hainan,0.00
+1/17/20,Gansu province,0.00
+1/17/20,Heilongjiang Province,0.00
+1/17/20,Jilin Province,0.00
+1/17/20,Inner Mongolia Autonomous Region,0.00
+1/17/20,Tianjin,0.00
+1/17/20,Xinjiang Uygur Autonomous Region,0.00
+1/17/20,Ningxia Hui Autonomous Region,0.00
+1/17/20,Qinghai Province,0.00
+1/17/20,Tibet Autonomous Region,0.00
+1/16/20,Hubei Province,0.66
+1/16/20,Henan Province,0.06
+1/16/20,Hunan Province,0.04
+1/16/20,Anhui Province,0.02
+1/16/20,Jiangxi Province,0.02
+1/16/20,Guangdong Province,0.02
+1/16/20,Jiangsu Province,0.02
+1/16/20,Chongqing,0.01
+1/16/20,Sichuan Province,0.01
+1/16/20,Beijing,0.01
+1/16/20,Shandong Province,0.01
+1/16/20,Zhejiang Province,0.01
+1/16/20,Fujian Province,0.01
+1/16/20,Hebei Province,0.01
+1/16/20,Shanghai,0.01
+1/16/20,Guangxi Zhuang Autonomous Region,0.01
+1/16/20,Shaanxi Province,0.01
+1/16/20,Guizhou Province,0.01
+1/16/20,Yunnan Province,0.01
+1/16/20,Shanxi Province,0.01
+1/16/20,Hainan,0.00
+1/16/20,Liaoning Province,0.00
+1/16/20,Gansu province,0.00
+1/16/20,Heilongjiang Province,0.00
+1/16/20,Xinjiang Uygur Autonomous Region,0.00
+1/16/20,Inner Mongolia Autonomous Region,0.00
+1/16/20,Tianjin,0.00
+1/16/20,Jilin Province,0.00
+1/16/20,Ningxia Hui Autonomous Region,0.00
+1/16/20,Qinghai Province,0.00
+1/16/20,Tibet Autonomous Region,0.00
+1/15/20,Hubei Province,0.66
+1/15/20,Henan Province,0.06
+1/15/20,Hunan Province,0.04
+1/15/20,Anhui Province,0.03
+1/15/20,Jiangxi Province,0.02
+1/15/20,Guangdong Province,0.02
+1/15/20,Jiangsu Province,0.02
+1/15/20,Chongqing,0.02
+1/15/20,Sichuan Province,0.01
+1/15/20,Beijing,0.01
+1/15/20,Shandong Province,0.01
+1/15/20,Hebei Province,0.01
+1/15/20,Zhejiang Province,0.01
+1/15/20,Fujian Province,0.01
+1/15/20,Shanghai,0.01
+1/15/20,Guangxi Zhuang Autonomous Region,0.01
+1/15/20,Shaanxi Province,0.01
+1/15/20,Shanxi Province,0.01
+1/15/20,Guizhou Province,0.01
+1/15/20,Yunnan Province,0.01
+1/15/20,Gansu province,0.00
+1/15/20,Hainan,0.00
+1/15/20,Liaoning Province,0.00
+1/15/20,Heilongjiang Province,0.00
+1/15/20,Xinjiang Uygur Autonomous Region,0.00
+1/15/20,Tianjin,0.00
+1/15/20,Jilin Province,0.00
+1/15/20,Inner Mongolia Autonomous Region,0.00
+1/15/20,Ningxia Hui Autonomous Region,0.00
+1/15/20,Qinghai Province,0.00
+1/15/20,Tibet Autonomous Region,0.00
+1/14/20,Hubei Province,0.65
+1/14/20,Henan Province,0.06
+1/14/20,Hunan Province,0.04
+1/14/20,Anhui Province,0.02
+1/14/20,Jiangxi Province,0.02
+1/14/20,Guangdong Province,0.02
+1/14/20,Jiangsu Province,0.02
+1/14/20,Sichuan Province,0.02
+1/14/20,Chongqing,0.01
+1/14/20,Beijing,0.01
+1/14/20,Shandong Province,0.01
+1/14/20,Zhejiang Province,0.01
+1/14/20,Shanghai,0.01
+1/14/20,Fujian Province,0.01
+1/14/20,Guangxi Zhuang Autonomous Region,0.01
+1/14/20,Hebei Province,0.01
+1/14/20,Shaanxi Province,0.01
+1/14/20,Guizhou Province,0.01
+1/14/20,Shanxi Province,0.01
+1/14/20,Yunnan Province,0.01
+1/14/20,Gansu province,0.00
+1/14/20,Liaoning Province,0.00
+1/14/20,Hainan,0.00
+1/14/20,Xinjiang Uygur Autonomous Region,0.00
+1/14/20,Heilongjiang Province,0.00
+1/14/20,Inner Mongolia Autonomous Region,0.00
+1/14/20,Jilin Province,0.00
+1/14/20,Tianjin,0.00
+1/14/20,Ningxia Hui Autonomous Region,0.00
+1/14/20,Qinghai Province,0.00
+1/14/20,Tibet Autonomous Region,0.00
+1/13/20,Hubei Province,0.64
+1/13/20,Henan Province,0.05
+1/13/20,Hunan Province,0.04
+1/13/20,Guangdong Province,0.02
+1/13/20,Anhui Province,0.02
+1/13/20,Jiangxi Province,0.02
+1/13/20,Jiangsu Province,0.02
+1/13/20,Sichuan Province,0.02
+1/13/20,Beijing,0.01
+1/13/20,Zhejiang Province,0.01
+1/13/20,Chongqing,0.01
+1/13/20,Shandong Province,0.01
+1/13/20,Guangxi Zhuang Autonomous Region,0.01
+1/13/20,Hebei Province,0.01
+1/13/20,Shanghai,0.01
+1/13/20,Fujian Province,0.01
+1/13/20,Guizhou Province,0.01
+1/13/20,Shaanxi Province,0.01
+1/13/20,Shanxi Province,0.01
+1/13/20,Yunnan Province,0.01
+1/13/20,Gansu province,0.01
+1/13/20,Liaoning Province,0.00
+1/13/20,Hainan,0.00
+1/13/20,Xinjiang Uygur Autonomous Region,0.00
+1/13/20,Heilongjiang Province,0.00
+1/13/20,Inner Mongolia Autonomous Region,0.00
+1/13/20,Jilin Province,0.00
+1/13/20,Tianjin,0.00
+1/13/20,Ningxia Hui Autonomous Region,0.00
+1/13/20,Qinghai Province,0.00
+1/13/20,Tibet Autonomous Region,0.00
+1/12/20,Hubei Province,0.66
+1/12/20,Henan Province,0.05
+1/12/20,Hunan Province,0.03
+1/12/20,Guangdong Province,0.02
+1/12/20,Anhui Province,0.02
+1/12/20,Jiangxi Province,0.02
+1/12/20,Jiangsu Province,0.02
+1/12/20,Sichuan Province,0.02
+1/12/20,Chongqing,0.01
+1/12/20,Shandong Province,0.01
+1/12/20,Zhejiang Province,0.01
+1/12/20,Beijing,0.01
+1/12/20,Guangxi Zhuang Autonomous Region,0.01
+1/12/20,Hebei Province,0.01
+1/12/20,Fujian Province,0.01
+1/12/20,Guizhou Province,0.01
+1/12/20,Shanghai,0.01
+1/12/20,Shaanxi Province,0.01
+1/12/20,Shanxi Province,0.01
+1/12/20,Yunnan Province,0.01
+1/12/20,Gansu province,0.00
+1/12/20,Hainan,0.00
+1/12/20,Liaoning Province,0.00
+1/12/20,Xinjiang Uygur Autonomous Region,0.00
+1/12/20,Heilongjiang Province,0.00
+1/12/20,Inner Mongolia Autonomous Region,0.00
+1/12/20,Tianjin,0.00
+1/12/20,Jilin Province,0.00
+1/12/20,Ningxia Hui Autonomous Region,0.00
+1/12/20,Qinghai Province,0.00
+1/12/20,Tibet Autonomous Region,0.00
+1/11/20,Hubei Province,0.67
+1/11/20,Henan Province,0.05
+1/11/20,Hunan Province,0.04
+1/11/20,Anhui Province,0.02
+1/11/20,Guangdong Province,0.02
+1/11/20,Jiangxi Province,0.02
+1/11/20,Jiangsu Province,0.02
+1/11/20,Zhejiang Province,0.01
+1/11/20,Sichuan Province,0.01
+1/11/20,Chongqing,0.01
+1/11/20,Beijing,0.01
+1/11/20,Shandong Province,0.01
+1/11/20,Hebei Province,0.01
+1/11/20,Guangxi Zhuang Autonomous Region,0.01
+1/11/20,Shanghai,0.01
+1/11/20,Fujian Province,0.01
+1/11/20,Shaanxi Province,0.01
+1/11/20,Guizhou Province,0.01
+1/11/20,Shanxi Province,0.01
+1/11/20,Yunnan Province,0.01
+1/11/20,Gansu province,0.00
+1/11/20,Hainan,0.00
+1/11/20,Liaoning Province,0.00
+1/11/20,Xinjiang Uygur Autonomous Region,0.00
+1/11/20,Heilongjiang Province,0.00
+1/11/20,Inner Mongolia Autonomous Region,0.00
+1/11/20,Tianjin,0.00
+1/11/20,Jilin Province,0.00
+1/11/20,Ningxia Hui Autonomous Region,0.00
+1/11/20,Qinghai Province,0.00
+1/11/20,Tibet Autonomous Region,0.00
+1/10/20,Hubei Province,0.62
+1/10/20,Henan Province,0.05
+1/10/20,Hunan Province,0.04
+1/10/20,Guangdong Province,0.03
+1/10/20,Anhui Province,0.03
+1/10/20,Jiangxi Province,0.02
+1/10/20,Jiangsu Province,0.02
+1/10/20,Beijing,0.02
+1/10/20,Zhejiang Province,0.02
+1/10/20,Shandong Province,0.02
+1/10/20,Chongqing,0.01
+1/10/20,Sichuan Province,0.01
+1/10/20,Hebei Province,0.01
+1/10/20,Shanghai,0.01
+1/10/20,Guangxi Zhuang Autonomous Region,0.01
+1/10/20,Guizhou Province,0.01
+1/10/20,Fujian Province,0.01
+1/10/20,Shaanxi Province,0.01
+1/10/20,Shanxi Province,0.01
+1/10/20,Yunnan Province,0.01
+1/10/20,Gansu province,0.01
+1/10/20,Hainan,0.00
+1/10/20,Liaoning Province,0.00
+1/10/20,Xinjiang Uygur Autonomous Region,0.00
+1/10/20,Inner Mongolia Autonomous Region,0.00
+1/10/20,Heilongjiang Province,0.00
+1/10/20,Tianjin,0.00
+1/10/20,Jilin Province,0.00
+1/10/20,Ningxia Hui Autonomous Region,0.00
+1/10/20,Qinghai Province,0.00
+1/10/20,Tibet Autonomous Region,0.00
+1/9/20,Hubei Province,0.62
+1/9/20,Henan Province,0.05
+1/9/20,Hunan Province,0.04
+1/9/20,Guangdong Province,0.03
+1/9/20,Anhui Province,0.02
+1/9/20,Jiangxi Province,0.02
+1/9/20,Jiangsu Province,0.02
+1/9/20,Sichuan Province,0.02
+1/9/20,Shandong Province,0.02
+1/9/20,Zhejiang Province,0.02
+1/9/20,Beijing,0.01
+1/9/20,Chongqing,0.01
+1/9/20,Hebei Province,0.01
+1/9/20,Guangxi Zhuang Autonomous Region,0.01
+1/9/20,Guizhou Province,0.01
+1/9/20,Shanghai,0.01
+1/9/20,Fujian Province,0.01
+1/9/20,Shanxi Province,0.01
+1/9/20,Shaanxi Province,0.01
+1/9/20,Yunnan Province,0.01
+1/9/20,Gansu province,0.01
+1/9/20,Hainan,0.01
+1/9/20,Liaoning Province,0.00
+1/9/20,Xinjiang Uygur Autonomous Region,0.00
+1/9/20,Heilongjiang Province,0.00
+1/9/20,Inner Mongolia Autonomous Region,0.00
+1/9/20,Tianjin,0.00
+1/9/20,Jilin Province,0.00
+1/9/20,Ningxia Hui Autonomous Region,0.00
+1/9/20,Qinghai Province,0.00
+1/9/20,Tibet Autonomous Region,0.00
+1/8/20,Hubei Province,0.61
+1/8/20,Henan Province,0.05
+1/8/20,Hunan Province,0.04
+1/8/20,Guangdong Province,0.03
+1/8/20,Anhui Province,0.02
+1/8/20,Jiangsu Province,0.02
+1/8/20,Jiangxi Province,0.02
+1/8/20,Beijing,0.02
+1/8/20,Zhejiang Province,0.02
+1/8/20,Sichuan Province,0.02
+1/8/20,Shandong Province,0.01
+1/8/20,Guizhou Province,0.01
+1/8/20,Chongqing,0.01
+1/8/20,Shanghai,0.01
+1/8/20,Hebei Province,0.01
+1/8/20,Guangxi Zhuang Autonomous Region,0.01
+1/8/20,Fujian Province,0.01
+1/8/20,Shaanxi Province,0.01
+1/8/20,Yunnan Province,0.01
+1/8/20,Shanxi Province,0.01
+1/8/20,Gansu province,0.01
+1/8/20,Hainan,0.01
+1/8/20,Xinjiang Uygur Autonomous Region,0.00
+1/8/20,Liaoning Province,0.00
+1/8/20,Heilongjiang Province,0.00
+1/8/20,Tianjin,0.00
+1/8/20,Inner Mongolia Autonomous Region,0.00
+1/8/20,Jilin Province,0.00
+1/8/20,Ningxia Hui Autonomous Region,0.00
+1/8/20,Qinghai Province,0.00
+1/8/20,Tibet Autonomous Region,0.00
+1/7/20,Hubei Province,0.62
+1/7/20,Henan Province,0.05
+1/7/20,Hunan Province,0.04
+1/7/20,Guangdong Province,0.03
+1/7/20,Anhui Province,0.02
+1/7/20,Jiangsu Province,0.02
+1/7/20,Jiangxi Province,0.02
+1/7/20,Beijing,0.02
+1/7/20,Zhejiang Province,0.02
+1/7/20,Shandong Province,0.02
+1/7/20,Sichuan Province,0.01
+1/7/20,Shanghai,0.01
+1/7/20,Chongqing,0.01
+1/7/20,Guizhou Province,0.01
+1/7/20,Hebei Province,0.01
+1/7/20,Guangxi Zhuang Autonomous Region,0.01
+1/7/20,Shaanxi Province,0.01
+1/7/20,Fujian Province,0.01
+1/7/20,Yunnan Province,0.01
+1/7/20,Shanxi Province,0.01
+1/7/20,Hainan,0.01
+1/7/20,Gansu province,0.01
+1/7/20,Liaoning Province,0.01
+1/7/20,Xinjiang Uygur Autonomous Region,0.00
+1/7/20,Heilongjiang Province,0.00
+1/7/20,Inner Mongolia Autonomous Region,0.00
+1/7/20,Tianjin,0.00
+1/7/20,Jilin Province,0.00
+1/7/20,Qinghai Province,0.00
+1/7/20,Ningxia Hui Autonomous Region,0.00
+1/7/20,Tibet Autonomous Region,0.00
+1/6/20,Hubei Province,0.62
+1/6/20,Henan Province,0.05
+1/6/20,Hunan Province,0.04
+1/6/20,Guangdong Province,0.03
+1/6/20,Anhui Province,0.02
+1/6/20,Jiangxi Province,0.02
+1/6/20,Jiangsu Province,0.02
+1/6/20,Beijing,0.02
+1/6/20,Zhejiang Province,0.02
+1/6/20,Shandong Province,0.01
+1/6/20,Sichuan Province,0.01
+1/6/20,Shanghai,0.01
+1/6/20,Chongqing,0.01
+1/6/20,Guizhou Province,0.01
+1/6/20,Hebei Province,0.01
+1/6/20,Shaanxi Province,0.01
+1/6/20,Fujian Province,0.01
+1/6/20,Guangxi Zhuang Autonomous Region,0.01
+1/6/20,Yunnan Province,0.01
+1/6/20,Shanxi Province,0.01
+1/6/20,Hainan,0.01
+1/6/20,Gansu province,0.01
+1/6/20,Liaoning Province,0.00
+1/6/20,Xinjiang Uygur Autonomous Region,0.00
+1/6/20,Tianjin,0.00
+1/6/20,Heilongjiang Province,0.00
+1/6/20,Inner Mongolia Autonomous Region,0.00
+1/6/20,Jilin Province,0.00
+1/6/20,Qinghai Province,0.00
+1/6/20,Ningxia Hui Autonomous Region,0.00
+1/6/20,Tibet Autonomous Region,0.00
+1/5/20,Hubei Province,0.63
+1/5/20,Henan Province,0.05
+1/5/20,Guangdong Province,0.03
+1/5/20,Hunan Province,0.03
+1/5/20,Anhui Province,0.02
+1/5/20,Jiangsu Province,0.02
+1/5/20,Beijing,0.02
+1/5/20,Jiangxi Province,0.02
+1/5/20,Zhejiang Province,0.02
+1/5/20,Shanghai,0.02
+1/5/20,Sichuan Province,0.01
+1/5/20,Shandong Province,0.01
+1/5/20,Chongqing,0.01
+1/5/20,Guizhou Province,0.01
+1/5/20,Hebei Province,0.01
+1/5/20,Shaanxi Province,0.01
+1/5/20,Guangxi Zhuang Autonomous Region,0.01
+1/5/20,Fujian Province,0.01
+1/5/20,Yunnan Province,0.01
+1/5/20,Hainan,0.01
+1/5/20,Shanxi Province,0.01
+1/5/20,Gansu province,0.00
+1/5/20,Liaoning Province,0.00
+1/5/20,Xinjiang Uygur Autonomous Region,0.00
+1/5/20,Tianjin,0.00
+1/5/20,Heilongjiang Province,0.00
+1/5/20,Inner Mongolia Autonomous Region,0.00
+1/5/20,Jilin Province,0.00
+1/5/20,Ningxia Hui Autonomous Region,0.00
+1/5/20,Qinghai Province,0.00
+1/5/20,Tibet Autonomous Region,0.00
+1/4/20,Hubei Province,0.68
+1/4/20,Henan Province,0.04
+1/4/20,Hunan Province,0.03
+1/4/20,Guangdong Province,0.03
+1/4/20,Anhui Province,0.02
+1/4/20,Jiangxi Province,0.02
+1/4/20,Jiangsu Province,0.02
+1/4/20,Zhejiang Province,0.01
+1/4/20,Beijing,0.01
+1/4/20,Shandong Province,0.01
+1/4/20,Sichuan Province,0.01
+1/4/20,Shanghai,0.01
+1/4/20,Chongqing,0.01
+1/4/20,Guizhou Province,0.01
+1/4/20,Fujian Province,0.01
+1/4/20,Guangxi Zhuang Autonomous Region,0.01
+1/4/20,Hebei Province,0.01
+1/4/20,Shaanxi Province,0.01
+1/4/20,Yunnan Province,0.01
+1/4/20,Shanxi Province,0.01
+1/4/20,Hainan,0.00
+1/4/20,Gansu province,0.00
+1/4/20,Liaoning Province,0.00
+1/4/20,Xinjiang Uygur Autonomous Region,0.00
+1/4/20,Tianjin,0.00
+1/4/20,Heilongjiang Province,0.00
+1/4/20,Inner Mongolia Autonomous Region,0.00
+1/4/20,Jilin Province,0.00
+1/4/20,Ningxia Hui Autonomous Region,0.00
+1/4/20,Qinghai Province,0.00
+1/4/20,Tibet Autonomous Region,0.00
+1/3/20,Hubei Province,0.67
+1/3/20,Henan Province,0.05
+1/3/20,Hunan Province,0.04
+1/3/20,Guangdong Province,0.03
+1/3/20,Anhui Province,0.02
+1/3/20,Jiangxi Province,0.02
+1/3/20,Jiangsu Province,0.02
+1/3/20,Zhejiang Province,0.02
+1/3/20,Beijing,0.02
+1/3/20,Shanghai,0.01
+1/3/20,Shandong Province,0.01
+1/3/20,Chongqing,0.01
+1/3/20,Sichuan Province,0.01
+1/3/20,Guizhou Province,0.01
+1/3/20,Fujian Province,0.01
+1/3/20,Guangxi Zhuang Autonomous Region,0.01
+1/3/20,Hebei Province,0.01
+1/3/20,Shaanxi Province,0.01
+1/3/20,Yunnan Province,0.01
+1/3/20,Shanxi Province,0.00
+1/3/20,Hainan,0.00
+1/3/20,Liaoning Province,0.00
+1/3/20,Gansu province,0.00
+1/3/20,Xinjiang Uygur Autonomous Region,0.00
+1/3/20,Heilongjiang Province,0.00
+1/3/20,Tianjin,0.00
+1/3/20,Inner Mongolia Autonomous Region,0.00
+1/3/20,Jilin Province,0.00
+1/3/20,Ningxia Hui Autonomous Region,0.00
+1/3/20,Qinghai Province,0.00
+1/3/20,Tibet Autonomous Region,0.00
+1/2/20,Hubei Province,0.61
+1/2/20,Henan Province,0.05
+1/2/20,Guangdong Province,0.04
+1/2/20,Hunan Province,0.04
+1/2/20,Anhui Province,0.03
+1/2/20,Jiangxi Province,0.02
+1/2/20,Jiangsu Province,0.02
+1/2/20,Zhejiang Province,0.02
+1/2/20,Beijing,0.02
+1/2/20,Sichuan Province,0.01
+1/2/20,Shandong Province,0.01
+1/2/20,Shanghai,0.01
+1/2/20,Chongqing,0.01
+1/2/20,Fujian Province,0.01
+1/2/20,Shaanxi Province,0.01
+1/2/20,Guizhou Province,0.01
+1/2/20,Hebei Province,0.01
+1/2/20,Guangxi Zhuang Autonomous Region,0.01
+1/2/20,Yunnan Province,0.01
+1/2/20,Hainan,0.01
+1/2/20,Shanxi Province,0.01
+1/2/20,Gansu province,0.00
+1/2/20,Liaoning Province,0.00
+1/2/20,Xinjiang Uygur Autonomous Region,0.00
+1/2/20,Heilongjiang Province,0.00
+1/2/20,Tianjin,0.00
+1/2/20,Inner Mongolia Autonomous Region,0.00
+1/2/20,Jilin Province,0.00
+1/2/20,Ningxia Hui Autonomous Region,0.00
+1/2/20,Qinghai Province,0.00
+1/2/20,Tibet Autonomous Region,0.00
+1/1/20,Hubei Province,0.72
+1/1/20,Henan Province,0.04
+1/1/20,Hunan Province,0.03
+1/1/20,Guangdong Province,0.03
+1/1/20,Anhui Province,0.02
+1/1/20,Jiangxi Province,0.02
+1/1/20,Jiangsu Province,0.02
+1/1/20,Zhejiang Province,0.01
+1/1/20,Beijing,0.01
+1/1/20,Shanghai,0.01
+1/1/20,Chongqing,0.01
+1/1/20,Shandong Province,0.01
+1/1/20,Sichuan Province,0.01
+1/1/20,Hebei Province,0.01
+1/1/20,Shaanxi Province,0.01
+1/1/20,Guizhou Province,0.01
+1/1/20,Fujian Province,0.01
+1/1/20,Yunnan Province,0.01
+1/1/20,Guangxi Zhuang Autonomous Region,0.01
+1/1/20,Hainan,0.00
+1/1/20,Shanxi Province,0.00
+1/1/20,Liaoning Province,0.00
+1/1/20,Heilongjiang Province,0.00
+1/1/20,Gansu province,0.00
+1/1/20,Tianjin,0.00
+1/1/20,Xinjiang Uygur Autonomous Region,0.00
+1/1/20,Jilin Province,0.00
+1/1/20,Inner Mongolia Autonomous Region,0.00
+1/1/20,Ningxia Hui Autonomous Region,0.00
+1/1/20,Qinghai Province,0.00
+1/1/20,Tibet Autonomous Region,0.00
