@@ -218,10 +218,10 @@ p4 <- ggplot(all_dats2) +
   xlab("Age group")
 
 #png("fig2.png",width=8,height=3,res=300,units="in")
-png("tmp_workers.png",width=8, height=5, res=300,units="in")
+#png("tmp_workers.png",width=8, height=5, res=300,units="in")
 (p3+p1)/(p4 + p2)
-dev.off()
+#dev.off()
 
-pdf("tmp_workers.pdf",width=8, height=5)
+#pdf("tmp_workers.pdf",width=8, height=5)
 (p3+p1)/(p4 + p2)
-dev.off()
+#dev.off()

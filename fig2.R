@@ -256,15 +256,15 @@ p2_supp <- ggplot(all_C_thinned[all_C_thinned$thin_propn %in% c(as.character(seq
         plot.margin=unit(c(0.2,0.25,0.2,0.2),"cm")) +
   facet_wrap(~thin_propn)
 
-pdf("fig2_supp.pdf",height=5,width=7)
+#pdf("fig2_supp.pdf",height=5,width=7)
 p2_supp
-dev.off()
+#dev.off()
 
 
 all_C_thinned_fig1 <- all_C_thinned %>% filter(thin_propn %in% c("0","0.5","Baseline"))
-new_labels <- c("0"="No school contacts","0.5"="No school + 50% reduction in adults","Baseline"="POLYMOD")
+new_labels <- c("0"="No school contacts","0.5"="50% reduction in adults","Baseline"="POLYMOD")
 all_C_thinned_fig1$thin_propn <- new_labels[as.character(all_C_thinned_fig1$thin_propn)]
-all_C_thinned_fig1$thin_propn <- factor(all_C_thinned_fig1$thin_propn, levels=c("POLYMOD","No school contacts","No school + 50% reduction in adults"))
+all_C_thinned_fig1$thin_propn <- factor(all_C_thinned_fig1$thin_propn, levels=c("POLYMOD","No school contacts","50% reduction in adults"))
 p_new_fig1_C <- ggplot(all_C_thinned_fig1) + 
   geom_tile(aes(x=age_group,y=contact_age_group,fill=value)) + 
   scale_fill_gradient2(low="#0072B2",high="#D55E00",mid="#F0E442",midpoint=6) +
@@ -274,22 +274,38 @@ p_new_fig1_C <- ggplot(all_C_thinned_fig1) +
   scale_x_discrete(expand=c(0,0)) +
   scale_y_discrete(expand=c(0,0)) +
   theme(legend.position="none",
-        axis.text=element_text(size=8),
-        axis.text.x=element_text(size=8,angle=90,hjust=0.5,vjust=0.5),
+        axis.text=element_text(size=7),
+        axis.text.x=element_text(size=7,angle=90,hjust=0.5,vjust=0.5),
         axis.title=element_text(size=10),
         strip.text=element_text(size=8),
         plot.margin=unit(c(0.2,0.1,0.2,-0.1),"cm")) +
   facet_wrap(~thin_propn,ncol=1) +
   labs(tag="C")
 
+transmissibility_dist <- transmissibility_dist + labs(tag="D")
+lhs <- ((age_dist_p / case_dist_p / transmissibility_dist) | p_new_fig1_C) + plot_layout(widths=c(1,1.2))
+lhs  
+inset_p1 <- inset_p + theme(legend.position=c(0.55,0.95),legend.justification = 0.5,
+                            plot.margin = margin(0.2,1,0.2))+ labs(tag="E")
 
-rhs <- (inset_p + labs(tag="D") )/(transmissibility_dist + labs(tag="E")) + plot_layout(heights=c(1.2,1))
+inset_p1 <- inset_p1 + plot_spacer() + plot_layout(widths=c(20,0.1))
+inset_p1
+overall_p <- lhs / inset_p1 + plot_layout(heights=c(2,0.8))
+overall_p
+
+#rhs <- (inset_p + labs(tag="D") )(transmissibility_dist + labs(tag="E"))# + plot_layout(heights=c(1.2,1))
 #png("figS1.png",width=10,height=6,res=300,units="in")
-
-pdf("fig1.pdf",width=10,height=6)
-((age_dist_p / case_dist_p) | p_new_fig1_C | rhs) + plot_layout(widths=c(0.8,1,1.8))
+#top_p <- (age_dist_p | case_dist_p | transmissibility_dist) + plot_layout(widths = c(1,1,1.5))
+#overall_p <- top_p / p_new_fig1_C / (inset_p + theme(legend.position=c(0.55,0.95),legend.justification = 0.5)+ labs(tag="E") ) + plot_layout(heights=c(1,0.9,1.4))
+#overall_p
+pdf("fig1.pdf",width=6,height=10)
+overall_p
 dev.off()
 
-png("fig1.png",width=10,height=6,res=300,units="in")
-((age_dist_p / case_dist_p) | p_new_fig1_C | rhs) + plot_layout(widths=c(0.8,1,1.8))
+#((age_dist_p / case_dist_p) | p_new_fig1_C | rhs) + plot_layout(widths=c(0.8,1,1.8))
+png("fig1.png",width=6,height=10,res=300,units="in")
+overall_p
 dev.off()
+
+
+

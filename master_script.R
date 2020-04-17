@@ -107,9 +107,9 @@ age_dist_p <- age_distribution %>% ggplot() +
   ylab("Proportion of population")+ 
   coord_flip() +
   scale_y_continuous(expand=c(0,0)) +
-  theme(axis.text=element_text(size=8),
+  theme(axis.text=element_text(size=7),
         axis.title=element_text(size=10),
-        axis.text.x=element_text(size=8),
+        axis.text.x=element_text(size=7),
         plot.margin=unit(c(0.2,0.4,0.2,0.2),"cm")) +
   labs(tag="A")
 
@@ -121,12 +121,12 @@ case_dist_p <- china_cases %>% ggplot() +
   geom_bar(aes(x=age_group,y=confirmed_cases),stat="identity", fill="grey40") +
   theme_pubr() + 
   xlab("Age group") +
-  ylab("Number of confirmed cases")+ 
+  ylab("Confirmed cases")+ 
   coord_flip() +
   scale_y_continuous(expand=c(0,0),limits=c(0,12000)) +
-  theme(axis.text=element_text(size=8),
+  theme(axis.text=element_text(size=7),
         axis.title=element_text(size=10),
-        axis.text.x=element_text(size=8),
+        axis.text.x=element_text(size=7),
         plot.margin=unit(c(0.2,0.4,0.2,0.2),"cm"))+
   labs(tag="B")
 
@@ -289,7 +289,7 @@ inset_p <- ggplot(ars) +
   geom_line(data=ars,aes(x=as.numeric(age_group),y=ar, col=Scenario),size=0.5) +
   geom_point(aes(x=age_group,y=ar, col=Scenario),size=1) +
   xlab("Age group") +
-  scale_y_continuous(expand=c(0,0), limits=c(0,1), "Model predicted cumulative incidence (line)", breaks=seq(0,1,by=0.2),
+  scale_y_continuous(expand=c(0,0), limits=c(0,1), "Predicted cumulative incidence (line)", breaks=seq(0,1,by=0.2),
                      sec.axis=sec_axis(~.*(1/y_scale), name="Observed incidence (bars)*", breaks=seq(0,0.002,by=0.0002))) +
   scale_color_manual(values=c("#D55E00","#0072B2","#009E73")) +
   theme_pubr() +
@@ -319,8 +319,8 @@ transmissibility_dist <- ggplot(age_dist_trans) +
   scale_y_continuous(expand=c(0,0),limits=c(0,0.15),breaks=seq(0,0.15,by=0.01)) +
   scale_x_continuous(expand=c(0,0)) +
   theme_pubr() +
-  theme(axis.text=element_text(size=8),
-        axis.text.x=element_text(size=8),
+  theme(axis.text=element_text(size=7),
+        axis.text.x=element_text(size=7),
         axis.title=element_text(size=10),
         legend.title = element_blank(),
         legend.position="top",
